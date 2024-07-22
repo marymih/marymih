@@ -36,4 +36,4 @@ I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
 
 ---
 
-![Codewars](https://github.r2v.ch/codewars?user=marymih)
+![Codewars](https://github.r2v.ch/codewars?user=rsschool_074f09c7506fb9f3)
