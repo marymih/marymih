@@ -26,7 +26,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-### My projects :
+### :rocket: My projects :
 
 <!-- - **Portfolio Website**: A personal portfolio website to showcase my projects and skills. [GitHub Repository](https://github.com/marymih/rsschool-cv) -->
 - **Bergen Tour**: A responsive website for a tour agency, showcasing various travel packages and services. [GitHub Repository](https://github.com/marymih/Bergen-Tour)
