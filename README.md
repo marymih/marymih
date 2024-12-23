@@ -1,9 +1,9 @@
-# hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# hey there 👋
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmYyZjJtNTAzMTJvYXh0OGdmeXRsbzhianZkd2ZtbHhycmU3Y3E3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/giphy.gif" width="200"/>
+<!-- <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmYyZjJtNTAzMTJvYXh0OGdmeXRsbzhianZkd2ZtbHhycmU3Y3E3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/giphy.gif" width="200"/> -->
 
 ### :woman_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Berlin with experience in business analysis.
+I am a Frontend Developer from Berlin with experience in business analysis.
 
 - 🌱 I’m currently learning TypeScript.
 - 🎯 My goal is to become an expert in frontend development and a mentor for new developers.
@@ -29,9 +29,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :rocket: My projects :
 
 <!-- - **Portfolio Website**: A personal portfolio website to showcase my projects and skills. [GitHub Repository](https://github.com/marymih/rsschool-cv) -->
-- **Bergen Tour**: A responsive website for a tour agency, showcasing various travel packages and services. [GitHub Repository](https://github.com/marymih/Bergen-Tour)
+- **Bergen Tour**: Responsive website for a tour agency, showcasing various travel packages and services. [GitHub Repository](https://github.com/marymih/Bergen-Tour)
 - **Marvel Information Portal**: React app that shows details about characters and a list of comics in which they have appeared. [GitHub Repository](https://github.com/marymih/marvel-app)
-<!-- - **Hero admin panel**: An app that shows details about characters and a list of comics in which they have appeared. [GitHub Repository](https://github.com/marymih/marvel-app) -->
+- **Hero admin panel**: Web application for managing heroes, allowing users to create, delete, and filter heroes by group affiliation. [GitHub Repository](https://github.com/marymih/hero-admin-panel)
 - **Ravenous**: React app for searching locals restaurants. [GitHub Repository](https://github.com/marymih/ravenous)
 
 ---
