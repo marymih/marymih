@@ -2,7 +2,7 @@
 
 I'm Masha, a Frontend Developer from Berlin with experience in business analysis.
 
-- 🌱 I’m currently working on a PDM system for RT-Engineering ([demo](https://github.com/marymih/demo-pdm)).
+- 🌱 I’m currently working on a PDM system for RT-Engineering.
 - 🎯 My goal is to make technology feel easy and supportive for people.
 - 🔍 I enjoy reading, embroidery and unraveling detective mysteries.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariia-mikhalchenko/)
