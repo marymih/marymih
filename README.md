@@ -2,23 +2,15 @@
 
 I'm Masha — a Technical Business Analyst & Frontend Developer based in Berlin.
 
-8+ years of professional experience, combining 5 years of business analysis with
-hands-on frontend implementation. I map operational workflows and data flows,
-translate requirements into clear, testable specs — and I can also build the
-solution myself when that's the fastest path from problem to product.
+5 years of business analysis combined with 2+ years of hands-on frontend development (React, TypeScript, Next.js). I map operational workflows and data flows, translate requirements into clear, testable specs — and I can also build the solution myself when that's the fastest path from problem to product.
 
-- 🧩 Strong at bridging business needs and technical execution: stakeholder
-  collaboration, process mapping, requirements documentation.
-- 💻 Ship frontend code in React/TypeScript when a working prototype speaks
-  louder than a spec.
+- 🧩 Strong at bridging business needs and technical execution: stakeholder collaboration, process mapping, requirements documentation.
+- 💻 Ship frontend code in React/TypeScript when a working prototype speaks louder than a spec.
 - 🌱 I’m currently developing a Product Data Management (PDM) system for an engineering company.
 - 🎯 My goal is to make technology feel easy and supportive for people.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariia-mikhalchenko/)
 
 ---
-
-### :clipboard: Business Analysis :
-Requirements Gathering & Analysis · Business Requirements Documentation (BRD) · Functional & Technical Specifications · User Stories & Use Cases · Acceptance Criteria · Stakeholder Management · Feature Prioritization · Business Process Analysis & Documentation · Business Process Modeling (BPMN) · User Acceptance Testing (UAT) · Agile / Scrum
 
 ### :hammer_and_wrench: My stack :
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -40,3 +32,6 @@ Requirements Gathering & Analysis · Business Requirements Documentation (BRD) �
 ![Confluence](https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![diagrams.net](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+
+### :clipboard: Business Analysis :
+Requirements Gathering & Analysis · Business Requirements Documentation (BRD) · Functional & Technical Specifications · User Stories & Use Cases · Acceptance Criteria · Stakeholder Management · Feature Prioritization · Business Process Analysis & Documentation · Business Process Modeling (BPMN) · User Acceptance Testing (UAT) · Agile / Scrum
