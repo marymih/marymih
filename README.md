@@ -5,6 +5,7 @@ I'm Masha, a Frontend Engineer based in Berlin, with a background in business an
 - 💻 I work on a production Product Data Management (PDM) platform for an engineering company: I built its frontend from scratch with React, TypeScript and Next.js and ship changes in weekly releases.
 - ⚡ One fix I like: the admin panel was sending ~108 API requests to load 50 projects. I proposed a dedicated endpoint and added frontend caching, which brought it down to 4.
 - 🧩 I enjoy working where product and engineering meet: understanding the problem with users first, then building the solution.
+- 📋 My business analysis background helps in a dev team: I turn vague requests into user stories with clear acceptance criteria, map processes (BPMN) and check results with users (UAT). Used to working in Agile, Scrum and Kanban.
 - 🔒 That production code is private, so the repos here are learning projects and test tasks.
 - 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariia-mikhalchenko/)
 
@@ -29,5 +30,3 @@ I'm Masha, a Frontend Engineer based in Berlin, with a background in business an
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
-
-**Also experienced in:** requirements gathering, user stories and acceptance criteria, business process modeling (BPMN), UAT.
